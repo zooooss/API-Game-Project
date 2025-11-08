@@ -1,0 +1,3 @@
+﻿  couple.cpp
+C:\windowprogramming\Couple\couple.cpp(78,23): warning C4244: '인수': 'ULONGLONG'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Couple.vcxproj -> C:\windowprogramming\Couple\x64\Debug\Couple.exe
